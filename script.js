@@ -21,7 +21,6 @@ function divide(value1, value2) {
 }
 
 // OPERATE
-
 function operate(operator, val1, val2) {
     switch (operator) {
         case '+':
